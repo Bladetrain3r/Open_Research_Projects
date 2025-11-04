@@ -54,6 +54,6 @@
 └── .gitignore
 ```
 This structure and workflow facilitate collaborative, transparent, and reproducible research, leveraging the strengths of version control systems to manage contributions from multiple researchers effectively.
-# Version Controlled Research - A Software Engineering Approach to Open Source, Decentralised Research
-# Published as Public Domain 2024
-# This work is dedicated to the public domain under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. To view a copy of this dedication, visit https://creativecommons.org/publicdomain/zero/1.0/
+Version Controlled Research - A Software Engineering Approach to Open Source, Decentralised Research
+Published as Public Domain 2024
+This work is dedicated to the public domain under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. To view a copy of this dedication, visit https://creativecommons.org/publicdomain/zero/1.0/
